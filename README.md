@@ -62,6 +62,6 @@ The StashApp WooCommerce Payment Gateway is released under the [MIT License](htt
 
 <p align="center">
   Made with ❤️ by StashApp & Stellar Cannacoin team<br>
-  <a href="https://stashapp.cloud" target="_blank">https://stashapp.cloud</a>
+  <a href="https://stashapp.cloud" target="_blank">https://stashapp.cloud</a> •
   <a href="https://stellarcannacoin.org" target="_blank">https://stellarcannacoin.org</a>
 </p> 
