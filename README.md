@@ -10,7 +10,7 @@ StashApp WooCommerce Payment Gateway is a plugin that allows you to accept payme
 
 ## Installation
 
-To install the StashApp WooCommerce Payment Gateway, follow these steps:
+To install the StashApp WooCommerce Payment Gateway, [follow these steps](https://scribehow.com/shared/StashApp__WooCommerce_Payment_Gateway__ipmYSPzRS0STlZrfcCry1g):
 
 1. Download the plugin from the [GitHub repository](https://github.com/example/stashapp-woocommerce-payment-gateway).
 2. Extract the downloaded zip file.
