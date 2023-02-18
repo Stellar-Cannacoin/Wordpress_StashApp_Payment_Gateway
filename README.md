@@ -7,7 +7,7 @@
 <p align="center">A plugin that allows you to accept payments through the StashApp payment gateway on your WooCommerce store.</p>
 
 <p align="center">
-  <a href="https://stashapp.cloud" rel="_blank">Website</a> •
+  <a href="https://stashapp.cloud" target="_blank">Website</a> •
   <a href="#features">Features</a> •
   <a href="#installation">Installation</a> •
   <a href="#configuration">Configuration</a> •
@@ -62,6 +62,6 @@ The StashApp WooCommerce Payment Gateway is released under the [MIT License](htt
 
 <p align="center">
   Made with ❤️ by StashApp & Stellar Cannacoin team<br>
-  <a href="https://stashapp.cloud">https://stashapp.cloud</a>
-  <a href="https://stellarcannacoin.org">https://stellarcannacoin.org</a>
+  <a href="https://stashapp.cloud" target="_blank">https://stashapp.cloud</a>
+  <a href="https://stellarcannacoin.org" target="_blank">https://stellarcannacoin.org</a>
 </p> 
