@@ -8,7 +8,7 @@
  * Text Domain: wc-gateway-stashapp
  * Domain Path: /i18n/languages/
  *
- * Copyright: (c) 2015-2016 SkyVerge, Inc. (info@skyverge.com) and WooCommerce
+ * Copyright: (c) 2023-2024 StashApp
  *
  * License: GNU General Public License v3.0
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
